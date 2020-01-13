@@ -1,0 +1,7 @@
+#Mencari Luas & Keliling P.Panjang
+panjang=float(input("Masukan Panjang ="))
+Lebar=float(input("Masukan Lebar ="))
+Luas=panjang*Lebar
+Keliling=2*panjang+2*Lebar
+print("Keliling =",Keliling)
+print("Luas",Luas)
